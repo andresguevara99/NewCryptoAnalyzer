@@ -7,5 +7,7 @@ TODO: <br />
   -Add ML/Regression to charts of older tokens <br /> 
   -Pull newest tokens from other websites compare 1h, 24h growth % <br />
   -Merge Branches together <br />
+  -Add higher fidelity jpgs to website title, as well as the col2 df for the token or the platform <br />
+  -Add discord notification functionality for great growth and volume deltas <br />
   
 
